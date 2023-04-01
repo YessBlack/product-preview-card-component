@@ -5,7 +5,10 @@ module.exports = {
     './src/**/*.{js,ts,jsx,tsx}'
   ],
   theme: {
-    extend: {},
+    backgroundImage: {
+      mobile: "url('src/assets/image-product-mobile.jpg')",
+      desktop: "url('src/assets/image-product-desktop.jpg')"
+    },
     colors: {
       darkCyan: 'hsl(158, 36%, 37%)',
       cream: 'hsl(30, 38%, 92%)',
