@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Product Preview Card Component](![image](https://user-images.githubusercontent.com/70681219/229257055-41ebaac4-8a51-4f12-b3d9-135d0dd1389c.png))
+![Product Preview Card Component](https://user-images.githubusercontent.com/70681219/229257099-59d527b9-c420-4cd3-a3d8-cfed05f43cb1.png)
 
 ### Links
 
